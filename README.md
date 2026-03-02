@@ -32,29 +32,43 @@ Estacionalidad y tendencia de demanda.
 - Análisis/BI (opcional):Dashboards de ventas, rotura de stock, eficiencia logística y margen por categoría.
 
 ## 4) IA aplicada: modelo y decisión
-- Tipo de IA/técnica (clasificación, predicción, recomendación, anomalías, NLP...):
-- Entrada del modelo (qué datos usa):
+- Tipo de IA/técnica (clasificación, predicción, recomendación, anomalías, NLP...):Sistema de recomendación (filtrado colaborativo + modelo híbrido) y modelo predictivo de demanda (series temporales).
+- Entrada del modelo (qué datos usa):Historial de compras, comportamiento de usuarios similares, ubicación geográfica, estacionalidad, stock disponible.
 - Salida del modelo (qué produce):
+Recomendaciones personalizadas de productos.
+Predicción de demanda por región y categoría.
 - Decisión que habilita (qué hace la empresa con esa salida):
+Mostrar productos personalizados en la web.
+Ajustar inventario automáticamente.
+Optimizar precios dinámicos.
 
 ## 5) Rentabilidad: KPIs antes/después (mínimo 3)
 KPI 1 (ingresos/coste/eficiencia):
-- Antes:
-- Después:
-- Por qué mejora la rentabilidad:
+- Antes:8%
+- Después:11%
+- Por qué mejora la rentabilidad:Mayor porcentaje de visitas se convierten en compras → incremento directo de ingresos.
 
 KPI 2:
-- Antes:
-- Después:
-- Por qué mejora la rentabilidad:
+- Antes:6%
+- Después:2%
+- Por qué mejora la rentabilidad:Menos ventas perdidas y mayor satisfacción del cliente → fidelización.
 
 KPI 3:
-- Antes:
-- Después:
-- Por qué mejora la rentabilidad:
+- Antes:6,5€
+- Después:5,2€
+- Por qué mejora la rentabilidad:Mejor predicción reduce transporte urgente y exceso de inventario.
 
 ## 6) Diagrama del pipeline (ASCII o Mermaid)
-(Pega aquí el diagrama)
+flowchart LR
+A[Usuarios Web/App] --> B[Captura de Eventos]
+B --> C[Data Lake]
+C --> D[Limpieza y Transformación]
+D --> E[Data Warehouse]
+E --> F[Feature Engineering]
+F --> G[Modelo IA]
+G --> H[Recomendaciones + Predicción Demanda]
+H --> I[Optimización Inventario]
+I --> J[Mejora de KPIs]
 
 ## 7) Riesgos y mitigación
 Riesgo 1:
