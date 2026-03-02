@@ -71,18 +71,20 @@ H --> I[Optimización Inventario]
 I --> J[Mejora de KPIs]
 
 ## 7) Riesgos y mitigación
-Riesgo 1:
-- Mitigación 1:
+Riesgo 1:Sesgos en los datos que generen recomendaciones injustas o poco precisas.
+- Mitigación 1:Auditorías periódicas del modelo, validación cruzada y revisión de variables sensibles.
 
-Riesgo 2:
-- Mitigación 2:
+Riesgo 2:Problemas de privacidad y protección de datos.
+- Mitigación 2:Anonimización de datos, cumplimiento del RGPD y cifrado en almacenamiento y transmisión.
 
 ## 8) Valoración (criterio c): importancia presente y futura de la IA (10–15 líneas)
-- Importancia actual (hoy):
-- Importancia futura (3–5 años):
-- Condiciones/limitaciones (datos, costes, regulación, ética, seguridad, empleo):
-- Conclusión razonada:
+- Importancia actual (hoy):La IA es clave para la personalización masiva en e-commerce. Permite analizar millones de datos en tiempo real y mejorar la experiencia del cliente, incrementando ventas y reduciendo costes. Sin IA, la gestión manual sería inviable a gran escala.
+- Importancia futura (3–5 años):La IA evolucionará hacia modelos más autónomos y predictivos, integrando aprendizaje continuo y automatización total de inventarios y precios. La ventaja competitiva dependerá de la calidad de los datos y la capacidad de adaptación rápida.
+- Condiciones/limitaciones (datos, costes, regulación, ética, seguridad, empleo):Requiere grandes volúmenes de datos de calidad, inversión tecnológica elevada y cumplimiento normativo. Existen riesgos de sesgos algorítmicos y desplazamiento de empleos operativos.
+- Conclusión razonada:La IA no solo mejora procesos actuales sino que redefine el modelo de negocio. Su adopción estratégica es imprescindible para mantener competitividad y rentabilidad en mercados digitales.
 
 ## 9) Fuentes oficiales (mín. 2)
 - Big Data/analítica (enlace oficial):
+- IBM — What is Big Data: https://www.ibm.com/topics/big-data
 - IA/técnica/modelo (enlace oficial):
+- Google Developers — Recommender Systems: https://developers.google.com/machine-learning/recommendation
