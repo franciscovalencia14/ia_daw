@@ -1,25 +1,35 @@
 # Práctica IA (RA4 · b+c) — Big Data, análisis, rentabilidad y valoración IA
 
 ## 1) Caso y objetivo de negocio
-- Empresa/sector (real o ficticia):
-- Problema a resolver:
-- Objetivo de negocio (rentabilidad): (reducir costes / aumentar ventas / reducir riesgos / etc.)
+- Empresa/sector (real o ficticia): Amazon — sector retail y marketplace global.
+- Problema a resolver: Optimizar la gestión de inventario y aumentar la conversión mediante recomendaciones personalizadas, reduciendo roturas de stock y costes logísticos
+- Objetivo de negocio (rentabilidad): Aumentar ventas por usuario y reducir costes operativos mediante el uso de Big Data e Inteligencia Artificial aplicada a recomendación y predicción de demanda.
 
 ## 2) Big Data: recogida masiva de datos
 Describe por qué es Big Data (volumen, velocidad, variedad).
-- Fuente 1:
-- Fuente 2:
-- Fuente 3:
-- Volumen/velocidad (estimación):
-- Formatos (texto, eventos, series temporales, imágenes, etc.):
+-Volumen:Millones de pedidos diarios y miles de millones de eventos de navegación.
+-Velocidad:Procesamiento en tiempo real (clics, búsquedas, compras).
+-Variedad:Datos estructurados (ventas), semiestructurados (logs JSON), no estructurados (reseñas en texto libre).
+- Fuente 1:Historial de navegación y compras de usuarios.
+- Fuente 2:Datos logísticos (inventario, tiempos de envío, devoluciones).
+- Fuente 3:Reseñas y valoraciones de productos (texto libre).
+- Volumen/velocidad (estimación):Millones de transacciones diarias procesadas en segundos mediante sistemas distribuidos.
+- Formatos (texto, eventos, series temporales, imágenes, etc.):Tablas relacionales, JSON, logs de eventos, texto (NLP), series temporales de demanda.
 
 ## 3) Tratamiento/análisis: pipeline de datos
 Explica el flujo de forma ordenada:
-- Ingesta (captura/eventos):
-- Limpieza/normalización:
+- Ingesta (captura/eventos):Captura en tiempo real desde web, app móvil y sistemas logísticos mediante eventos de usuario y transacciones.
+- Limpieza/normalización:Eliminación de duplicados, corrección de errores, normalización de categorías, monedas y precios.
 - Almacenamiento (data lake/warehouse):
+  Data Lake: almacenamiento masivo de datos en bruto.
+  Data Warehouse: datos estructurados para análisis y reporting.
 - Preparación de variables (features):
-- Análisis/BI (opcional):
+Frecuencia de compra (RFM).
+Ticket medio.
+Tiempo medio de entrega.
+Probabilidad de devolución.
+Estacionalidad y tendencia de demanda.
+- Análisis/BI (opcional):Dashboards de ventas, rotura de stock, eficiencia logística y margen por categoría.
 
 ## 4) IA aplicada: modelo y decisión
 - Tipo de IA/técnica (clasificación, predicción, recomendación, anomalías, NLP...):
