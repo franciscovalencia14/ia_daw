@@ -63,7 +63,15 @@
 |Banca|Detección de fraude | Machine Learning | Java | Integración con sistemas bancarios|
 |Comercio electrónico | Recomendación de productos | Sistemas de recomendación | Python | Análisis de datos de usuarios |
 ## 5) Diagrama (ASCII o Mermaid)
-(Pega aquí el diagrama)
+Inteligencia Artificial
+      |
+ ---------------------------
+ |           |             |
+Sanidad     Banca   Comercio electrónico
+ |           |             |
+Diagnóstico  Fraude   Recomendaciones
+ |           |             |
+Python      Java          Python
 
 ## 6) Riesgos y mitigación
 - Riesgo 1:
