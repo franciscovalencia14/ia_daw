@@ -65,6 +65,7 @@
 ## 5) Diagrama (ASCII o Mermaid)
 Inteligencia Artificial
              |
+----------------------------
  |           |             |
 Sanidad     Banca   Comercio electrónico
  |           |             |
