@@ -58,9 +58,14 @@
 
 ## 4) Relación entre sectores, tipo de IA y lenguaje
 Sector	Aplicación de IA	Tipo de IA/técnica	Lenguaje recomendado	Justificación
-Sanidad	Análisis de imágenes	Visión artificial	Python	Librerías para imágenes y deep learning
+	Análisis de imágenes	Visión artificial	Python	Librerías para imágenes y deep learning
 Banca	Detección de fraude	Machine Learning	Java	Integración con sistemas bancarios
 Comercio electrónico	Recomendación de productos	Sistemas de recomendación	Python	Análisis de datos de usuarios
+| Sector | Aplicación de IA | Tipo de IA/técnica | Lenguaje recomendado | Justificación |
+|--------|------------------|--------------------|----------------------|---------------|
+| Sanidad       | Análisis de imágenes                 | Visión artificial                   | Python                     | Librerías para imágenes y deep learning              |
+|        |                  |                    |                      |               |
+|        |                  |                    |                      |               |
 ## 5) Diagrama (ASCII o Mermaid)
 (Pega aquí el diagrama)
 
