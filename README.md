@@ -1,34 +1,34 @@
 # Práctica IA (RA4 · d+e) — Sectores con implantación relevante y lenguajes de programación en IA
 
 ## 1) Introducción
-- Objetivo de la práctica:
-- Relación con DAW/DAM:
+- Objetivo de la práctica:Analizar sectores donde la IA se utiliza de forma relevante y conocer los lenguajes usados para desarrollarla.
+- Relación con DAW/DAM:Los desarrolladores pueden integrar IA en aplicaciones web y móviles para automatizar tareas, analizar datos o mejorar la experiencia del usuario.
 
 ## 2) Sectores con implantación relevante de IA
 
 ### Sector 1
-- Nombre del sector:
-- Tipo de empresa/servicio:
-- Aplicación de IA:
-- Qué tarea mejora o automatiza:
-- Por qué la IA tiene implantación relevante en este sector:
-- Beneficios que aporta:
+- Nombre del sector:Sanidad
+- Tipo de empresa/servicio:Hospitales y centros médicos
+- Aplicación de IA:Análisis de imágenes médicas
+- Qué tarea mejora o automatiza:Ayuda a detectar enfermedades en radiografías o escáneres
+- Por qué la IA tiene implantación relevante en este sector:Gran cantidad de datos médicos
+- Beneficios que aporta:Diagnósticos más rápidos y precisos
 
 ### Sector 2
-- Nombre del sector:
-- Tipo de empresa/servicio:
-- Aplicación de IA:
-- Qué tarea mejora o automatiza:
-- Por qué la IA tiene implantación relevante en este sector:
-- Beneficios que aporta:
+- Nombre del sector:Banca
+- Tipo de empresa/servicio:Bancos y entidades financieras
+- Aplicación de IA:Detección de fraude
+- Qué tarea mejora o automatiza:Analiza transacciones sospechosas
+- Por qué la IA tiene implantación relevante en este sector:Gran volumen de operaciones financieras
+- Beneficios que aporta:Mayor seguridad y reducción de fraudes
 
 ### Sector 3
-- Nombre del sector:
-- Tipo de empresa/servicio:
-- Aplicación de IA:
-- Qué tarea mejora o automatiza:
-- Por qué la IA tiene implantación relevante en este sector:
-- Beneficios que aporta:
+- Nombre del sector:Comercio electrónico
+- Tipo de empresa/servicio:Tiendas online
+- Aplicación de IA:Recomendación de productos
+- Qué tarea mejora o automatiza:Sugiere productos según el comportamiento del usuario
+- Por qué la IA tiene implantación relevante en este sector:Gran cantidad de datos de usuarios
+- Beneficios que aporta:Mejora la experiencia del cliente y aumenta las ventas
 
 ## 3) Lenguajes de programación en IA
 
