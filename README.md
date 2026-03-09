@@ -74,10 +74,10 @@ Diagnóstico  Fraude   Recomendaciones
 Python      Java          Python
 
 ## 6) Riesgos y mitigación
-- Riesgo 1:
-- Mitigación 1:
-- Riesgo 2:
-- Mitigación 2:
+- Riesgo 1:Sesgos en los datos
+- Mitigación 1:Revisar y validar los datos
+- Riesgo 2:Problemas de privacidad
+- Mitigación 2:Protección y anonimización de datos
 
 ## 7) Conclusión
 - Qué sectores destacan más:
