@@ -64,8 +64,7 @@
 |Comercio electrónico | Recomendación de productos | Sistemas de recomendación | Python | Análisis de datos de usuarios |
 ## 5) Diagrama (ASCII o Mermaid)
 Inteligencia Artificial
-            |
- ---------------------------
+             |
  |           |             |
 Sanidad     Banca   Comercio electrónico
  |           |             |
